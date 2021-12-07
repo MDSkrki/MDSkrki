@@ -24,7 +24,4 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdskrki&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
 <!--END_SECTION:waka-->
