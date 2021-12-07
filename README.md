@@ -21,4 +21,4 @@
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_text=My%20Page%20Visitors)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdskrki&show_icons=true&theme=gradient)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdskrki&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
