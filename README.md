@@ -28,3 +28,5 @@
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
+
+Profile generated using https://rahuldkjain.github.io/gh-profile-readme-generator/ and manually extended.
