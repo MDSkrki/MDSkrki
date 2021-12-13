@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mihai Daniel Somkereki</h1>
-<h3 align="center">A passionate Geek interested in medical sciences (MSc Pshysiotherapy) and Programming</h3>
+<h3 align="center">A passionate Geek interested in neuroscience and Programming</h3>
 
 - 🔭 I’m currently working on **A Messages App**
 
