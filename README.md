@@ -21,8 +21,6 @@
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=mdskrki.visitor-badge&left_text=My%20Page%20Visitors)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdskrki&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--START_SECTION:waka-->
 ```text
 JavaScript   7 hrs 10 mins   █████████████████▓░░░░░░░   70.18 % 
