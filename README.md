@@ -23,7 +23,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-HTML         1 min           ████████████████████▒░░░░   81.30 % 
+HTML         5 mins          ████████████████▓░░░░░░░░   66.75 % 
+Markdown     2 mins          ██████░░░░░░░░░░░░░░░░░░░   24.34 % 
 ```
 <!--END_SECTION:waka-->
 
