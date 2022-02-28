@@ -38,13 +38,16 @@
 ![followers number](https://img.shields.io/github/followers/MDSkrki?style=social)
 
 <!--START_SECTION:waka-->
+
 ```text
-JavaScript   14 hrs 36 mins  ████████████████▓░░░░░░░░   67.12 % 
-HTML         3 hrs 16 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.06 % 
-Markdown     2 hrs 13 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
-CSS          1 hr 35 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
-Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+JavaScript   14 hrs 42 mins  █████████████████████░░░░   83.73 %
+Markdown     1 hr 22 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 %
+HTML         1 hr 19 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 %
+JSON         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+CSS          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
+
 <!--END_SECTION:waka-->
 
 Profile generated using https://rahuldkjain.github.io/gh-profile-readme-generator/ and manually extended.
