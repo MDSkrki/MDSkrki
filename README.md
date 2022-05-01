@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Mihai Daniel Somkereki</h1>
 <h3 align="center">A passionate Geek interested in neuroscience and Programming</h3>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</div>
 
-- 🔭 I’m currently working on **A Messages App**
+- 🔭 I’m currently working on **FullStack Developer BootCamp**
 
-- 🌱 I’m currently learning **Full Stack Developer Bootcamp**
+- 🌱 I’m currently learning **MERN Stack**
 
-- 🤝 I’m looking for help with **everything regarding programming**
+- 🤝 I’m looking for help with **becoming a better software developer**
 
 - 📫 How to reach me **somkereki@hotmail.com**
 
