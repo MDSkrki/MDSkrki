@@ -71,7 +71,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mdskrki&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdskrki)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdskrki&count_private=false&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Weekly development breakdown:
 
